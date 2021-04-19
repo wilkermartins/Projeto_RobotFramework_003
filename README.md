@@ -1,5 +1,7 @@
 ## Automação de testes - API/WEB
 
+[![Badge ServeRest](https://img.shields.io/badge/API-ServeRest-green)](https://github.com/ServeRest/ServeRest/)
+
 Neste repositório encontra-se a automação utilizando o framework Robot.
 
 Para executar o teste é necessário ter um ambiente em Python configurado.
